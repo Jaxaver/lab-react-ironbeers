@@ -1,0 +1,1 @@
+Class Beers extends Component
